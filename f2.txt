@@ -1,2 +1,3 @@
 Hi this is shruthi
-this is git repo
+this is git 
+Hi this is shruthi
